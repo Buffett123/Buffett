@@ -1,2 +1,4 @@
 # Buffett
-Here lives Buffett~Welcome~
+Here lives Buffett.Welcome.
+
+Good Luck Every Day!
